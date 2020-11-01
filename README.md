@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey 👋🏻,
 
-<!--
-**PrincePepper/PrincePepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Semen, I am a student of the Far Eastern Federal University in the far East. I am a self-taught mobile developer. I am interested in, write about and develop (open source) software solutions in Python, Java, C++
 
-Here are some ideas to get you started:
+I've been working on Android for over 3 years and I really enjoy making apps. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in touch
+- [**Telegram**](https://tgmsg.ru/princepepper)
+- [**Вконтакте**](https://vk.com/princepepper)
+- [**Instargam**](https://www.instagram.com/prince_pepper_official/?hl=ru)
+- **<sereda.wk@gmail.com>**
+
+## &#x1f4c8; My GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=princepepper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=princepepper&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
