@@ -1,4 +1,4 @@
-<img src="svg.svg" width="100%"></img>
+<img src="svg.svg" width="80%"></img>
 ### Hey 👋🏻,
 
 My name is Semen, I am a student of the Far Eastern Federal University in the far East. I am a self-taught mobile developer. I am interested in, write about and develop (open source) software solutions in Python, Java, C++
