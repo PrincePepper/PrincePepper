@@ -7,7 +7,7 @@ I've been working on Android for over 3 years and I really enjoy making apps.
 ## 📬 Get in touch
 - [**Telegram**](https://tgmsg.ru/princepepper)
 - [**Вконтакте**](https://vk.com/princepepper)
-- [**Instargam**](https://www.instagram.com/prince_pepper_official/?hl=ru)
+- [**Instargam**](https://www.instagram.com/princepepperoff/?hl=ru)
 - **<sereda.wk@gmail.com>**
 
 ## &#x1f4c8; My GitHub Stats
