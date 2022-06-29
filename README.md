@@ -1,6 +1,6 @@
 ### Hey 👋🏻,
 
-My name is Semen, I am a student of the Far Eastern Federal University in the far East. I am a self-taught mobile developer. I am interested in, write about and develop (open source) software solutions in Python, Java, C++. And I'm also a bit of a robot developer
+My name is Semen, I am a student of the Far Eastern Federal University in the far East. I am a self-taught mobile developer. I am interested in, write about and develop (open source) software solutions in Python, Java, Kotlin. And I'm also a bit of a robot developer
 
 I've been working on Android for over 3 years and I really enjoy making apps. 
 
