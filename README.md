@@ -13,4 +13,4 @@ I've been working on Android for over 3 years and I really enjoy making apps.
 ## &#x1f4c8; My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=princepepper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=princepepper&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
